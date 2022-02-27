@@ -1,32 +1,4 @@
 # Acoustic Extinguisher Fire Dataset
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@yvzslmtspnr 
-yvzslmtspnr
-/
-AcousticExtinguisherFireDataset
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-AcousticExtinguisherFireDataset/Acoustic_Extinguisher_Fire_Dataset.txt
-@yvzslmtspnr
-yvzslmtspnr Add files via upload
-Latest commit bdaaa45 41 minutes ago
- History
- 1 contributor
-46 lines (37 sloc)  4.65 KB
    
 Yavuz Selim TASPINAR, Murat KOKLU and Mustafa ALTIN
 
@@ -56,34 +28,23 @@ KEYWORDS: Fire, Extinguishing System, Sound wave, Machine learning, Fire safety,
 
 Data properties and descriptions for liquid fuels				
 FEATURES	MIN/MAX VALUES					UNIT	DESCRIPTIONS	
-SIZE		7, 12, 14, 16, 20				cm		Recorded as 7 cm=1, 12 cm=2, 14 cm=3, 16 cm=4, 20 cm=5	
+SIZE		7, 12, 14, 16, 20				cm	Recorded as 7 cm=1, 12 cm=2, 14 cm=3, 16 cm=4, 20 cm=5	
 FUEL		Gasoline, Kerosene, Thinner				Fuel type	
 DISTANCE	10 - 190						cm		
 DESIBEL		72 - 113						dB		
 AIRFLOW		0 - 17							m/s		
 FREQUENCY	1-75							Hz		
-STATUS		0, 1									0 indicates the non-extinction state, 1 indicates the extinction state	
+STATUS		0, 1							0 indicates the non-extinction state, 1 indicates the extinction state	
 				
 				
 Data properties and descriptions for LPG				
-FEATURES	MIN/MAX VALUES									UNIT		DESCRIPTIONS	
-SIZE		Half throttle setting, Full throttle setting				Reocerded as Half throttle setting=6, Full throttle setting=7	
-FUEL		LPG															Fuel type	
-DISTANCE	10 - 190										cm		
-DESIBEL		72 - 113										dB		
-AIRFLOW		0 - 17											m/s		
-FREQUENCY	1-75											Hz		
-STATUS		0, 1														0 indicates the non-extinction state, 1 indicates the extinction state	
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+FEATURES	MIN/MAX VALUES					UNIT	DESCRIPTIONS	
+SIZE		Half throttle setting, Full throttle setting		Reocerded as Half throttle setting=6, Full throttle setting=7	
+FUEL		LPG							Fuel type	
+DISTANCE	10 - 190						cm		
+DESIBEL		72 - 113						dB		
+AIRFLOW		0 - 17							m/s		
+FREQUENCY	1-75							Hz		
+STATUS		0, 1							0 indicates the non-extinction state, 1 indicates the extinction state	
+
+
