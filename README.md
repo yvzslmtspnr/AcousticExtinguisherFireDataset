@@ -1,2 +1,2 @@
 # AcousticExtinguisherFireDataset
-AcousticExtinguisherFireDataset
+AcousticExtinguisher Fire Dataset
